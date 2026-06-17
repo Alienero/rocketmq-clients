@@ -1,4 +1,4 @@
-module github.com/Alienero/rocketmq/golang/v5
+module module github.com/Alienero/rocketmq-clients/golang/v5
 
 go 1.24
 
